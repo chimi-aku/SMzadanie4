@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>AEDBEC2E-17C2-446A-BC44-D6207DA543D9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AEDBEC2E-17C2-446A-BC44-D6207DA543D9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>zadanie4 LT project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>zadanie4 LT</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SMzadanie4 LT</string>
+			<key>timeStartedRecording</key>
+			<real>658670223.78923202</real>
+			<key>timeStoppedRecording</key>
+			<real>658670593.19921601</real>
+			<key>title</key>
+			<string>Debug SMzadanie4 LT</string>
+			<key>uniqueIdentifier</key>
+			<string>AEDBEC2E-17C2-446A-BC44-D6207DA543D9</string>
+		</dict>
+		<key>D5E36EBE-C14B-44C7-ABF3-0D4EBD62DCDD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D5E36EBE-C14B-44C7-ABF3-0D4EBD62DCDD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>zadanie4 LT project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>zadanie4 LT</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SMzadanie4 LT</string>
+			<key>timeStartedRecording</key>
+			<real>658669786.35429096</real>
+			<key>timeStoppedRecording</key>
+			<real>658670219.12642503</real>
+			<key>title</key>
+			<string>Debug SMzadanie4 LT</string>
+			<key>uniqueIdentifier</key>
+			<string>D5E36EBE-C14B-44C7-ABF3-0D4EBD62DCDD</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>BAD90035-3E17-4830-9426-84BA12F8B67B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BAD90035-3E17-4830-9426-84BA12F8B67B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>zadanie4 LT project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>zadanie4 LT</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build zadanie4 LT</string>
+			<key>timeStartedRecording</key>
+			<real>658670218.90861797</real>
+			<key>timeStoppedRecording</key>
+			<real>658670223.78605402</real>
+			<key>title</key>
+			<string>Build zadanie4 LT</string>
+			<key>uniqueIdentifier</key>
+			<string>BAD90035-3E17-4830-9426-84BA12F8B67B</string>
+		</dict>
+		<key>E260E09A-78E8-4FE9-ADEB-0CD11193648F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E260E09A-78E8-4FE9-ADEB-0CD11193648F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>zadanie4 LT project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>zadanie4 LT</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build zadanie4 LT</string>
+			<key>timeStartedRecording</key>
+			<real>658669775.54398203</real>
+			<key>timeStoppedRecording</key>
+			<real>658669786.35080695</real>
+			<key>title</key>
+			<string>Build zadanie4 LT</string>
+			<key>uniqueIdentifier</key>
+			<string>E260E09A-78E8-4FE9-ADEB-0CD11193648F</string>
+		</dict>
+		<key>F0D22C60-A077-4CD8-BDC7-E5C13EE41488</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F0D22C60-A077-4CD8-BDC7-E5C13EE41488.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>zadanie4 LT project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>zadanie4 LT</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build zadanie4 LT</string>
+			<key>timeStartedRecording</key>
+			<real>658670593.01184106</real>
+			<key>timeStoppedRecording</key>
+			<real>658670597.80221605</real>
+			<key>title</key>
+			<string>Build zadanie4 LT</string>
+			<key>uniqueIdentifier</key>
+			<string>F0D22C60-A077-4CD8-BDC7-E5C13EE41488</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
